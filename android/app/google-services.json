@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "191506881644",
+    "project_id": "poultry-app-11e9a",
+    "storage_bucket": "poultry-app-11e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191506881644:android:09147060c645067461cc49",
+        "android_client_info": {
+          "package_name": "com.example.poultry_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191506881644-noujgkorhop6k76j05g5j4j7pjr5mcib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poultry_app",
+            "certificate_hash": "4ba669dd34c7288a116136524822b19102dc3f8f"
+          }
+        },
+        {
+          "client_id": "191506881644-vqbk2st8bpd6754qlujkm7ati9jihj7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrVwn5eeDu9-UqGs5bS9jZUgcI-4pVmlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191506881644-vqbk2st8bpd6754qlujkm7ati9jihj7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
